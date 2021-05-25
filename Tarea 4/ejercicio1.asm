@@ -3,7 +3,7 @@ org 100h
 section .text
 
     XOR AX, AX
-    XOR BX, BX  ;loop
+    XOR BX, BX  ;aux
     XOR CX, CX  
     XOR DI, DI  ;indice pares 
     XOR SI, SI  ;indice impares
